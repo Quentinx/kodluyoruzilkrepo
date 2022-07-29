@@ -4,6 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # İnstallation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
 `git clone https://github.com/Quentinx/kodluyoruzilkrepo.git`
 
 # Usage
